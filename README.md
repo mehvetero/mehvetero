@@ -11,4 +11,4 @@ Writing exploit analyses at [mehvetero.com](https://mehvetero.com) — BlueMove,
 - Competitive audits on [CodeHawks](https://profiles.cyfrin.io/u/mehvetero)
 
 ### Find me
-[Blog](https://mehvetero.com) · Discord / Telegram: `mehvetero`
+[Blog](https://mehvetero.com) · [Sui Forum](https://forums.sui.io/u/mehvetero/activity) · Discord / Telegram: `mehvetero`
